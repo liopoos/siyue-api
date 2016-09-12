@@ -2,7 +2,7 @@
 
 # Siyue API #
 
-**更新：**2016年4月3日
+**更新：**2016年9月11日
 
 **问题反馈：**i@mayuko.cn
 
@@ -12,7 +12,7 @@
 
 ## 数据获取 ##
 
-- 请求地址(SSL)：https://blog.mayuko.cn/siyue-api
+- 请求地址(SSL)：https://api.mayuko.com/siyue
 
 - 请求方式：GET
 
@@ -22,19 +22,19 @@
 
 ## 实例： ##
 
-**请求：**https://blog.mayuko.cn/siyue-api
+**请求：**https://api.mayuko.com/siyue 
 
 **返回：**或许前路永夜，即便如此我也要前进，因为星光即使微弱也会为我照亮前路
 
 ## 调用举例 – JavaScript + HTML ##
 
-**脚本地址(SSL)：**https://blog.mayuko.cn/siyue-api?encode=js
+**脚本地址(SSL)：**https://api.mayuko.com/siyue?encode=js
 
 ## 使用方法： ##
 
 1.将下面这段代码放入HTML页面的head标签内
 
-    <script type="text/javascript" src="https://blog.mayuko.cn/siyue-api/?encode=js&charset=utf-8"></script>
+    <script type="text/javascript" src="https://api.mayuko.cn/siyue/?encode=js&charset=utf-8"></script>
 
 2.将下面这段代码放入页面内需要展示一句话的位置即可
 
